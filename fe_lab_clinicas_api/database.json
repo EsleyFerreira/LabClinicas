@@ -1,12 +1,33 @@
 {
-    "users": [],
-    "adm_users": [],
+    "users": [
+        {
+            "id": "a5b7eca0-1922-1e90-a433-65c4aa33e4d9",
+            "email": "at1@gmail.com",
+            "password": "123123"
+        }
+    ],
+    "adm_users": [
+        {
+            "id": "a86a78a0-1fa8-1e90-a433-65c4aa33e4d9",
+            "email": "terminal1@gmail.com",
+            "password": "123123"
+        },
+        {
+            "id": "79c1d0d0-21dc-1e90-a433-65c4aa33e4d9",
+            "email": "terminal1@gmail.com",
+            "password": "123123"
+        },
+        {
+            "id": "c3af8b80-263f-1e90-a433-65c4aa33e4d9",
+            "email": "terminal1@gmail.com",
+            "password": "123123"
+        }
+    ],
     "attendantDeskAssignment": [],
     "patients": [],
     "patientInformationForm": [],
     "painelCheckin": [],
     "tests": [
-        
         {
             "id": "3b2526a7-96ad-4884-8d89-aac3a8f8d1e1",
             "name": "Endoscopia"
