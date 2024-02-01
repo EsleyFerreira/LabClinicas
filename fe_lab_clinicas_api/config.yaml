@@ -9,6 +9,7 @@ socketPort: 8081
 broadcastProvider: socket
 idType: uuid
 
+
 auth:
   jwtSecret: cwsMXDtuP447WZQ63nM4dWZ3RppyMl
   jwtExpire: 3600
