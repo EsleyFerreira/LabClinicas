@@ -102,7 +102,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_getit:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: flutter_getit
       sha256: "80dbaef77ee26f7f0b2841b5de58a1482b10830004d55f17ffa5d4a5cce0ce23"
